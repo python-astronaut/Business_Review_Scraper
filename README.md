@@ -2,12 +2,22 @@
 A easy way to manage reviews for your business 
 
 
-Another project I have made, being bored. Essentially, I heard someone in the office complaining that it was hard writing out the reviews because, at my work, there were two methods. One was that they would copy and paste the reviews into a Word document and print them, or sometimes write them out on sticky notes. Then, they would analyze them and manually sort them into piles. It was at least two days of work and such a long waste of time; there had to be another way.
+This project was developed to address the common challenge of inefficiently analyzing customer reviews. Something I saw a college working on one day in the office. Traditional methods, such as manually writing and sorting of feedback, are very time consuming and labor intensive, which I saw many times required multiple workdays to complete.
 
-So, I made this. In essence, it is a review scraper that will take a website's reviews that have been converted into a CSV file and then will spit out a graph to show the reviews in terms of positive and negative on a scale from 1-5 (standard Google scale). With that in mind, it will also log common words for the good and bad reviews so you can see what people really enjoy and what they hate.
+To streamline this process, I created a review analysis tool. In essence, it is a review scraper that processes website reviews from a CSV file, generating a graph of positive and negative sentiment on a standard 1-5 scale (optimized for google). Furthermore, the program identifies and logs frequently occurring words within both positive and negative reviews. This functionality allows the user to gain deeper insights into specific aspects that customers appreciate or dislike, enabling a more targeted assessment of business performance.
 
-With this information, you can better assess your business. Now, with regards to this program, though it currently works off a CSV file, it could easily be modified to have it work directly with the website. I put a placeholder for API functionality. Currently, it's in a bar graph, however this could easily be changed to be a histogram or scatter plot whatever graph you would want to reprisent the data better. 
+With this information, you can better assess your business. Now, with regards to this program, though it currently works off a CSV file, it could easily be modified to have it work directly with the website. I put a placeholder for API functionality. Currently, it's in a bar graph, however this could easily be changed to be a histogram or scatter plot whatever graph you would want to reprisent the data better.
 
-That said, it was really fun to work on, and I thoroughly enjoyed working with Matplotlib and Pandas to move through the data. Like all of my programs, they are registered under an open license, so feel free to use the software if you wish; just please credit my repo. Thank you so much. I hope this helps you.
+That said, it was really fun to work on, and I thoroughly enjoyed working with Matplotlib and Pandas to move through the data. This software is made available under an open license; you are welcome to utilize it, with the request that appropriate credit be given to my repository. It is my hope that this tool proves beneficial to you in your business there are some photos down below which better showcase it in action :) 
+
 
 -Orion
+
+
+![Image Alt](image_url).
+
+![Image Alt](image_url).
+
+![Image Alt](image_url).
+
+

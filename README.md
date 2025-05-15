@@ -14,10 +14,10 @@ That said, it was really fun to work on, and I thoroughly enjoyed working with M
 -Orion
 
 
-![Image Alt](image_url).
+![Screenshot_1](https://github.com/python-astronaut/Business_Review_Scraper/blob/61f265668e39c20f76ed6bebeca511a4dca83966/Business_Review_1.png).
 
-![Image Alt](image_url).
+![Screenshot_2](https://github.com/python-astronaut/Business_Review_Scraper/blob/61f265668e39c20f76ed6bebeca511a4dca83966/Business_Review_2.png).
 
-![Image Alt](image_url).
+![Screenshot_3](https://github.com/python-astronaut/Business_Review_Scraper/blob/61f265668e39c20f76ed6bebeca511a4dca83966/Business_Review_3.png).
 
 
